@@ -16,7 +16,7 @@ require (
 	github.com/onsi/ginkgo v1.16.5 // indirect
 	github.com/onsi/gomega v1.20.2 // indirect
 	github.com/pierrec/lz4 v2.4.1+incompatible // indirect
-	github.com/tidwall/pretty v1.0.0
+	github.com/tidwall/pretty v1.2.0
 	github.com/ulikunitz/xz v0.5.4 // indirect
 	github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8 // indirect
 	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
