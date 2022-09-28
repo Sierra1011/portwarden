@@ -3,6 +3,7 @@ module github.com/Sierra1011/portwarden
 go 1.14
 
 require (
+	cloud.google.com/go/kms v1.4.0 // indirect
 	github.com/RichardKnop/machinery v1.10.6
 	github.com/davecgh/go-spew v1.1.1
 	github.com/dsnet/compress v0.0.0-20171208185109-cc9eb1d7ad76 // indirect
@@ -20,8 +21,8 @@ require (
 	github.com/ulikunitz/xz v0.5.4 // indirect
 	github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8 // indirect
 	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
-	golang.org/x/net v0.0.0-20220722155237-a158d28d115b
-	golang.org/x/oauth2 v0.0.0-20210201163806-010130855d6c
-	google.golang.org/api v0.39.0
+	golang.org/x/net v0.0.0-20220909164309-bea034e7d591
+	golang.org/x/oauth2 v0.0.0-20220822191816-0ebed06d0094
+	google.golang.org/api v0.98.0
 	gopkg.in/urfave/cli.v1 v1.20.0
 )
