@@ -20,8 +20,8 @@ require (
 	github.com/ulikunitz/xz v0.5.4 // indirect
 	github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8 // indirect
 	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
-	golang.org/x/net v0.0.0-20220722155237-a158d28d115b
-	golang.org/x/oauth2 v0.0.0-20210201163806-010130855d6c
-	google.golang.org/api v0.39.0
+	golang.org/x/net v0.0.0-20221014081412-f15817d10f9b
+	golang.org/x/oauth2 v0.0.0-20221014153046-6fdb5e3db783
+	google.golang.org/api v0.109.0
 	gopkg.in/urfave/cli.v1 v1.20.0
 )
