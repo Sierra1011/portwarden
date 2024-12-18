@@ -17,7 +17,7 @@ require (
 	github.com/pierrec/lz4 v2.4.1+incompatible // indirect
 	github.com/rogpeppe/go-internal v1.8.0 // indirect
 	github.com/tidwall/pretty v1.0.0
-	github.com/ulikunitz/xz v0.5.4 // indirect
+	github.com/ulikunitz/xz v0.5.8 // indirect
 	github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8 // indirect
 	golang.org/x/crypto v0.9.0
 	golang.org/x/net v0.10.0
