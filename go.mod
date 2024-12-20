@@ -15,14 +15,12 @@ require (
 	github.com/onsi/ginkgo v1.16.5 // indirect
 	github.com/onsi/gomega v1.20.2 // indirect
 	github.com/pierrec/lz4 v2.4.1+incompatible // indirect
-	github.com/rogpeppe/go-internal v1.8.0 // indirect
-	github.com/tidwall/pretty v1.0.0
+	github.com/tidwall/pretty v1.2.0
 	github.com/ulikunitz/xz v0.5.8 // indirect
 	github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8 // indirect
-	golang.org/x/crypto v0.9.0
-	golang.org/x/net v0.10.0
-	golang.org/x/oauth2 v0.0.0-20210201163806-010130855d6c
-	google.golang.org/api v0.39.0
-	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
+	golang.org/x/crypto v0.31.0
+	golang.org/x/net v0.33.0
+	golang.org/x/oauth2 v0.24.0
+	google.golang.org/api v0.214.0
 	gopkg.in/urfave/cli.v1 v1.20.0
 )
