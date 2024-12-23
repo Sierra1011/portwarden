@@ -3,7 +3,6 @@ module github.com/Sierra1011/portwarden
 go 1.14
 
 require (
-	github.com/RichardKnop/machinery v1.10.6
 	github.com/davecgh/go-spew v1.1.1
 	github.com/dsnet/compress v0.0.0-20171208185109-cc9eb1d7ad76 // indirect
 	github.com/frankban/quicktest v1.14.3 // indirect
