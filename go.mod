@@ -18,7 +18,7 @@ require (
 	github.com/tidwall/pretty v1.2.0
 	github.com/ulikunitz/xz v0.5.8 // indirect
 	github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8 // indirect
-	golang.org/x/crypto v0.31.0
+	golang.org/x/crypto v0.32.0
 	golang.org/x/net v0.33.0
 	golang.org/x/oauth2 v0.24.0
 	google.golang.org/api v0.214.0
