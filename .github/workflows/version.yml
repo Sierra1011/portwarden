@@ -6,7 +6,7 @@ concurrency: ci-version
 on: 
   push:
   schedule:
-    - cron:  '00 * * * *'
+    - cron:  '00 9 * * 1'
   workflow_dispatch:
     
 jobs:
