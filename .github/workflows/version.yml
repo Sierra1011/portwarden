@@ -41,7 +41,7 @@ jobs:
 
     - name: Commit and push changes
       id: push
-      uses: devops-infra/action-commit-push@v0.10.0
+      uses: devops-infra/action-commit-push@v1.0.3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         commit_message: Updated to version ${{ env.version }}
